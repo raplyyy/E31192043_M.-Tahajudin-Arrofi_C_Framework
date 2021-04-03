@@ -53,5 +53,5 @@ $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
-$route['prodi'] = 'Mahasiswa/prodi';
-$route['angkatan'] = 'Mahasiswa/angkatan';
+$route['profil'] = 'welcome/profil';
+$route['contact'] = 'welcome/contact';
